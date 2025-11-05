@@ -1,0 +1,22 @@
+[
+  {
+    "question": "do you offer facials?",
+    "answer": "Yes, we offer spa and facial services from 10 AM to 8 PM."
+  },
+  {
+    "question": "do you offer spa services?",
+    "answer": "Yes, We offer spa services from 9 AM to 7 PM"
+  },
+  {
+    "question": "Do you offer spa services?",
+    "answer": "Yes, we offer spa services."
+  },
+  {
+    "question": "What is the timings for opening spa?",
+    "answer": "The timings for opening spa is 8AM."
+  },
+  {
+    "question": "What is the timing for opening spa?",
+    "answer": "The timing for opening spa is 8 AM."
+  }
+]

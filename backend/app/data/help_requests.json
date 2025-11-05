@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cf0002f1-f9c8-43de-9e72-6a1d305b4cca",
+    "question": "Do you offer spa services?",
+    "customer_id": "cust_001",
+    "status": "resolved",
+    "supervisor_answer": "Yes, we offer spa services.",
+    "created_at": "2025-11-03 17:13:24.559181",
+    "resolved_at": "2025-11-05 23:52:51.076835"
+  },
+  {
+    "id": "946a5f20-0bc1-46b2-ad37-f38234c86b99",
+    "question": "Do you offer facials?",
+    "customer_id": "cust_002",
+    "status": "resolved",
+    "supervisor_answer": "Yes, we offer spa and facial services from 10 AM to 8 PM.",
+    "created_at": "2025-11-03 17:38:17.023160",
+    "resolved_at": "2025-11-03T18:22:48.962996"
+  },
+  {
+    "question": "what is your cancellation policy?",
+    "id": "3e1f245a-79e0-412a-9f77-e2891d1fe5a5",
+    "created_at": "2025-11-06 00:05:43.786784",
+    "status": "pending"
+  },
+  {
+    "question": "Do you offer massages also?",
+    "id": "f6af91f4-cb93-4342-84ee-c33f7e72ca9e",
+    "created_at": "2025-11-06 00:19:56.736450",
+    "status": "pending"
+  },
+  {
+    "question": "Do you offer massages also?",
+    "id": "0546a543-6c0a-4a53-a4b1-c1a3511cfbb6",
+    "created_at": "2025-11-06 00:20:24.623720",
+    "status": "pending"
+  },
+  {
+    "question": "okay then confirm it",
+    "id": "d6a5792a-1ffc-4eae-a4a6-15f97ac072af",
+    "created_at": "2025-11-06 00:20:50.267261",
+    "status": "pending"
+  },
+  {
+    "question": "What is the timings for opening spa?",
+    "id": "01501f94-01a2-42d1-8780-5f9400e47fdf",
+    "created_at": "2025-11-06 00:25:52.843544",
+    "status": "resolved",
+    "supervisor_answer": "The timings for opening spa is 8AM.",
+    "resolved_at": "2025-11-06 00:26:52.598633"
+  },
+  {
+    "question": "Do you offer massages?",
+    "id": "a8e985b5-a81b-43c5-bdf7-21772cb03a7d",
+    "created_at": "2025-11-06 01:18:08.217143",
+    "status": "pending"
+  },
+  {
+    "question": "What is the timing for opening spa?",
+    "id": "8d439480-a399-4bd0-9669-173b5fd51763",
+    "created_at": "2025-11-06 01:21:42.083180",
+    "status": "resolved",
+    "supervisor_answer": "The timing for opening spa is 8 AM.",
+    "resolved_at": "2025-11-06 01:22:14.223221"
+  }
+]
